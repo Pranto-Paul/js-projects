@@ -16,6 +16,9 @@ A modern, responsive number guessing game built with HTML, JavaScript, and Tailw
 - Real-time feedback on guesses
 - Mobile responsive design
 - Beautiful gradient text and animations
+- Score tracking
+- High score system
+- Visual feedback for correct/incorrect guesses
 
 ## How to Play 🎯
 
@@ -25,6 +28,7 @@ A modern, responsive number guessing game built with HTML, JavaScript, and Tailw
 4. You'll receive feedback if your guess is too high or too low
 5. You have 5 attempts to guess the correct number
 6. The game automatically resets after winning or using all attempts
+7. Try to achieve the highest score possible!
 
 ## Technologies Used 💻
 
@@ -47,3 +51,10 @@ cd guess-the-number
 
 3. Open `index.html` in your browser
 
+## Contributing 🤝
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License 📄
+
+This project is licensed under the MIT License - see the LICENSE file for details.
