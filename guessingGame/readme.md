@@ -3,6 +3,10 @@
 
 A modern, responsive number guessing game built with HTML, JavaScript, and TailwindCSS featuring a beautiful dark mode interface.
 
+## Game Preview 📸
+
+![Guess the Number Game Preview](guessGamePic.png)
+
 ## Features 🌟
 
 - Interactive number guessing gameplay
